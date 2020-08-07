@@ -1,3 +1,3 @@
 import app from './app';
-
-app.listen(3333, '0.0.0.0', async () => {});
+const port = process.env.PORT || 8080;
+app.listen(port, '0.0.0.0', async () => {});
