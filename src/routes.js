@@ -1,7 +1,7 @@
 import { Router } from 'express';
 const links = [
-	'https://t.maze.design/15615430?guerilla=true',
-	'https://t.maze.design/15756155?guerilla=true',
+	'https://t.maze.design/28484546?guerilla=true',
+	'https://t.maze.design/29092056?guerilla=true',
 ];
 let linkIndex = 1;
 const routes = new Router();
