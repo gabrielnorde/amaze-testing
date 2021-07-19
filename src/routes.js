@@ -1,7 +1,7 @@
 import { Router } from 'express';
 const links = [
 	'https://t.maze.co/44505479',
-	'https://app.maze.co/maze-preview/mazes/45001900',
+	'https://t.maze.co/45001900',
 ];
 let linkIndex = 1;
 const routes = new Router();
